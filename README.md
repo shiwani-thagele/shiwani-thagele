@@ -29,8 +29,15 @@
 <a href="https://discord.gg/shiwanithagele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shiwanithagele" height="30" width="40" /></a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
-<p align="left"> 
+
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache spark" width="40" height="40"/> </a>
@@ -38,18 +45,6 @@
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiwani-thagele&show_icons=true&locale=en&layout=compact" alt="shiwani-thagele" /></p> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiwani-thagele&show_icons=true&locale=en" alt="shiwani-thagele" /></p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiwani-thagele&" alt="shiwani-thagele" /></p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shiwani-thagele-4a650518b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiwani-thagele-4a650518b" height="30" width="40" /></a>
 <a href="https://instagram.com/_shiwani26_thagele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shiwani26_thagele" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shiwanishiwani26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shiwanishiwani26" height="30" width="40" /></a>
